@@ -1,4 +1,4 @@
-# Jujutsu-Kaisen-Domain-Expansion
+# Jujutsu Kaisen(咒術迴戰) Domain Expansion
 Jujutsu Kaisen Domain Expansion
 
 Infinite Void
