@@ -9,3 +9,6 @@ Malevolent Shrine
 
 Chimera Shadow
 ![Alt text](images/chimera_shadow.jpg)
+
+The L World!
+![Alt text](images/the_L.jpg)
