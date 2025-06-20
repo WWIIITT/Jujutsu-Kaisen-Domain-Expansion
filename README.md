@@ -20,7 +20,7 @@ This project brings the supernatural world of Jujutsu Kaisen to life through com
 
 | Character | Domain Expansion | Description |
 |-----------|------------------|-------------|
-| **Gojo Satoru** | Infinite Void (無量空処) | The ultimate technique of the strongest sorcerer |
+| **Gojo Satoru** | Infinite Void (無量空處) | The ultimate technique of the strongest sorcerer |
 | **Ryomen Sukuna** | Malevolent Shrine (伏魔御廚子) | The King of Curses' devastating domain |
 | **Megumi Fushiguro** | Chimera Shadow Garden (嵌合暗翳庭) | Ten Shadows Technique manifestation |
 | **Custom** | The L World | Special custom domain expansion |
