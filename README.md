@@ -107,7 +107,7 @@ python "Jujutsu Kaisen Domain Expansion.ipynb"
 - **Visual Feedback**: Character previews and progress indicators
 
 ##  Project Structure
-
+ 
 ```
 Jujutsu-Kaisen-Domain-Expansion/
 ├── images/                    # Domain expansion character images
