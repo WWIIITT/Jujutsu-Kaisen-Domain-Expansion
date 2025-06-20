@@ -67,7 +67,7 @@ pip install opencv-python mediapipe tensorflow pygame scikit-learn numpy
 python "Jujutsu Kaisen Domain Expansion.ipynb"
 ```
 
-## 🎮 Usage Guide
+##  Usage Guide
 
 ### 1. Recording Training Data
 - Select option `1` from the main menu
@@ -87,7 +87,7 @@ python "Jujutsu Kaisen Domain Expansion.ipynb"
 - Perform Domain Expansion hand signs
 - Watch as the system recognizes and displays the corresponding technique
 
-## 🛠️ Technical Architecture
+## 🛠 Technical Architecture
 
 ### Hand Feature Extraction
 - **MediaPipe Hands**: 21-point hand landmark detection
@@ -106,7 +106,7 @@ python "Jujutsu Kaisen Domain Expansion.ipynb"
 - **Cooldown System**: Prevents false positive spam
 - **Visual Feedback**: Character previews and progress indicators
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 Jujutsu-Kaisen-Domain-Expansion/
@@ -123,7 +123,7 @@ Jujutsu-Kaisen-Domain-Expansion/
 └── LICENSE
 ```
 
-## 🤝 Contributing
+##  Contributing
 
 We welcome contributions from the Jujutsu Kaisen community! Here's how you can help:
 
@@ -141,14 +141,14 @@ We welcome contributions from the Jujutsu Kaisen community! Here's how you can h
 - Create mobile app version
 - Add gesture difficulty ratings
 
-## 📊 Performance Metrics
+##  Performance Metrics
 
 - **Detection Accuracy**: ~95% with proper training data
 - **Real-time FPS**: 30+ on modern hardware
 - **Response Time**: <100ms gesture recognition
 - **Training Time**: 2-5 minutes for 4 domain types
 
-## 🔧 Troubleshooting
+##  Troubleshooting
 
 ### Common Issues
 
@@ -170,13 +170,4 @@ cap = cv2.VideoCapture(1)  # Try 0, 1, 2...
 pip install --upgrade opencv-python mediapipe scikit-learn
 ```
 
----
-
-<div align="center">
-
-**"Domain Expansion is the pinnacle of jujutsu sorcery!"** ⚡
-
-*Made with ❤️ for the Jujutsu Kaisen community*
-
-</div>
 
