@@ -170,4 +170,8 @@ cap = cv2.VideoCapture(1)  # Try 0, 1, 2...
 pip install --upgrade opencv-python mediapipe scikit-learn
 ```
 
-
+## Acknowledgments
+- Gege Akutami - Creator of Jujutsu Kaisen manga
+- MAPPA Studio - Jujutsu Kaisen anime production
+- Google MediaPipe - Hand tracking technology
+- OpenCV Community - Computer vision tools
