@@ -1,12 +1,13 @@
 # Jujutsu Kaisen (咒術迴戰) Domain Expansion Recognition System
 
 <div align="center">
+ 
 
-[Jujutsu Kaisen](https://img.shields.io/badge/Anime-Jujutsu%20Kaisen-ff6b6b?style=for-the-badge)
-[Python](https://img.shields.io/badge/Python-3.7+-3776ab?style=for-the-badge&logo=python&logoColor=white)
-[OpenCV](https://img.shields.io/badge/OpenCV-4.x-5c3ee8?style=for-the-badge&logo=opencv&logoColor=white)
-[MediaPipe](https://img.shields.io/badge/MediaPipe-Google-4285f4?style=for-the-badge)
-[License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+[![Jujutsu Kaisen](https://img.shields.io/badge/Anime-Jujutsu%20Kaisen-ff6b6b?style=for-the-badge)](https://jujutsu-kaisen.fandom.com/wiki/Jujutsu_Kaisen_Wiki)
+[![Python](https://img.shields.io/badge/Python3.7+-3776ab?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/downloads/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-4.x-5c3ee8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
+[![MediaPipe](https://img.shields.io/badge/MediaPipe-Google-4285f4?style=for-the-badge)](https://github.com/google-ai-edge/mediapipe)
+[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://tlo.mit.edu/understand-ip/exploring-mit-open-source-license-comprehensive-guide)
 
 *An AI-powered hand gesture recognition system that detects Domain Expansion techniques from the popular anime Jujutsu Kaisen (咒術迴戰)*
 
