@@ -8,6 +8,7 @@
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.x-5c3ee8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
 [![MediaPipe](https://img.shields.io/badge/MediaPipe-Google-4285f4?style=for-the-badge)](https://github.com/google-ai-edge/mediapipe)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://tlo.mit.edu/understand-ip/exploring-mit-open-source-license-comprehensive-guide)
+[![GitHub stars](https://img.shields.io/github/stars/WWIIITT/Jujutsu-Kaisen-Domain-Expansion.svg)](https://github.com/username/DeepLearning_CheatSheet/stargazers)
 
 *An AI-powered hand gesture recognition system that detects Domain Expansion techniques from the popular anime Jujutsu Kaisen (咒術迴戰)*
 
